@@ -15,7 +15,7 @@ h2. Requirements
 
 h2. Installation
 
-h3. Rails 3.x
+h3. Rails 3.x – 5.x
 
 Just add the gem to your @Gemfile@ and then @bundle install@:
 
